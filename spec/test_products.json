@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "name": "Lightweight Linen Watch",
+    "price": 54.56,
+    "material": "Steel",
+    "color": "pink",
+    "vendor": "Shields-Labadie",
+    "description": "let's take this offline"
+  },
+  {
+    "id": 1,
+    "name": "Durable Leather Car",
+    "price": 9.88,
+    "material": "Steel",
+    "color": "azure",
+    "vendor": "Green and Sons",
+    "description": "granular"
+  },
+  {
+    "id": 2,
+    "name": "Durable Leather Lamp",
+    "price": 49.57,
+    "material": "Steel",
+    "color": "harlequin",
+    "vendor": "Stiedemann Inc",
+    "description": "plug and chug"
+  },
+  {
+    "id": 3,
+    "name": "Enormous Granite Bench",
+    "price": 37.67,
+    "material": "Iron",
+    "color": "red",
+    "vendor": "Dibbert-Brown",
+    "description": "bleeding edge"
+  }
+]
